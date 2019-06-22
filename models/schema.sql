@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS tasksdb;
+CREATE DATABASE tasksdb;
